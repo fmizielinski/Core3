@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Core3</string>
+
+    <!-- region details -->
+
+    <string name="details_comments">Comments</string>
+
+    <!-- endregion details -->
+
+    <!-- region common -->
+
+    <string name="all_author">by %s</string>
+    <string name="all_error"> Oops… Something went wrong\nTap to retry</string>
+
+    <!-- endregion common -->
+</resources>
